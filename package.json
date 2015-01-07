@@ -1,7 +1,7 @@
 {
 	"main": "lib/model.js",
 
-	"name": "Tickets",
+	"name": "endernode-tickets",
 	"version": "1.0.0",
 	"description": "Abstraction model for gameserver support tickets.",
 
