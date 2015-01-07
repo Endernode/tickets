@@ -1,0 +1,27 @@
+{
+	"main": "lib/model.js",
+
+	"name": "Tickets",
+	"version": "1.0.0",
+	"description": "Abstraction model for gameserver support tickets.",
+
+	"website": "http://endernode.com",
+	"author": "vorlot <mitchell@vorlot.com> (http://vorlot.com)",
+	"license": "MIT",
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Endernode/tickets"
+	},
+
+	"bugs": {
+		"url": "https://github.com/Endernode/tickets/issues"
+	},
+
+	"dependencies": {
+		"bluebird": "~2.6.1",
+		"merge": "~1.2.0",
+		"knex": "~0.7.3"
+	}
+}
+
